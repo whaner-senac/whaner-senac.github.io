@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Substitua EXEMPLO.github.io pelo dominio real antes de publicar.

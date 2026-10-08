@@ -1,0 +1,12 @@
+PROJETO-PILOTO — COMPETÊNCIA / MODELO PEDAGÓGICO SENAC
+
+1. Confirme a permissão para republicar o texto em site público.
+2. Crie repositório publico no GitHub com nome SEUUSUARIO.github.io.
+3. Envie para a raiz do repositório os arquivos index.html, competencia.html, estilo.css, robots.txt, sitemap.xml.
+4. Settings > Pages > Deploy from a branch > main / (root) > Save.
+5. Substitua EXEMPLO.github.io pelo domínio correto no sitemap.xml.
+6. Aguarde implantação; confirme abertura do endereço principal e /competencia.html.
+7. Solicite indexação via Bing Webmaster Tools. Aguarde aparecer na busca antes dos testes com o Copilot.
+8. Copilot > Criar agente > Conhecimento > Inserir URL: use https://SEUUSUARIO.github.io/ .
+
+Limitações: texto extraído automaticamente; notas, quebras e elementos visuais requerem revisão. Não há garantia de indexação nem de consulta de todas as páginas pelo Copilot. Não há publicação automática.
