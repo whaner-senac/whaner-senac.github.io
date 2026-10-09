@@ -1,1 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><!-- Substitua EXEMPLO.github.io pelo dominio do GitHub Pages antes de publicar --><url><loc>https://whaner-senac.github.io/</loc></url><url><loc>https://whaner-senac.github.io/competencia.html</loc></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://whaner-senac.github.io/</loc>
+  </url>
+  <url>
+    <loc>https://whaner-senac.github.io/competencia.html</loc>
+  </url>
+</urlset>
